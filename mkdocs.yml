@@ -1,0 +1,14 @@
+site_name: GitHub Actions 实验文档
+site_description: Python 持续集成与 MkDocs 自动部署实验
+site_url: https://iamai-dev.github.io/my-docs/
+repo_url: https://github.com/IAMAI-Dev/my-docs
+repo_name: IAMAI-Dev/my-docs
+theme:
+  name: material
+  language: zh
+  font: false
+nav:
+  - 首页: index.md
+  - 关于: about.md
+  - 指南: guide.md
+  - API: api.md
